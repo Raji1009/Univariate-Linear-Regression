@@ -47,6 +47,7 @@ plt.show()
 ```
 
 ## Output
+![WhatsApp Image 2023-12-27 at 16 27 33_19cdee53](https://github.com/Raji1009/Univariate-Linear-Regression/assets/89059861/7a4d7ac2-f1fd-4a52-9d87-62d66797f0f6)
 
 
 ## Result
